@@ -14,3 +14,4 @@ function getFormvalue(event) {
 
             // Concatenate the names and display them in an alert
             alert(firstName + " " + lastName);
+}
